@@ -1,0 +1,6 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(í”78¤“”‹0
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ğÍ‘‹0
+K
+java:S1068".Remove this unused "cardNumber" private field.(Û¾ïÇ8¤¼’‹0
